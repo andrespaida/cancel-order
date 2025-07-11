@@ -1,4 +1,3 @@
-// resolver.js
 import pool from './db.js'
 
 const resolvers = {
